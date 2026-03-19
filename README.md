@@ -1,8 +1,6 @@
-# Trade-Bills-and-Bipartisanship-
-CSV file for dataset of for trade bills, roll call votes, and bipartisanship score. 
+# Congressional Bipartisanship in U.S. Trade Policy: Institutional, Domestic, and International Factors
+This repository includes the dataset used for this paper. 
 ## Dataset Description
-
-## Dataset Variables
 
 | Column Name | Description |
 |------------|------------|
